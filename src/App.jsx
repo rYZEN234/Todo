@@ -46,7 +46,7 @@ function App() {
     <TodoProvider
       value={{ todos, addTodo, updateTodo, deleteTodo, toggleComplete }}
     >
-      <div className="bg-[url('https://img.freepik.com/free-vector/colorful-todo-list-illustration_1308-172589.jpg?t=st=1740135936~exp=1740139536~hmac=ebb3e257f98c3a42f1b0575a403beb45f7a7a5e73665bac33620656a88ecf0cf&w=996')] min-h-screen py-8">
+      <div className="bg-[url('https://img.freepik.com/free-photo/full-shot-adult-posing-with-light_23-2149679082.jpg?t=st=1740136055~exp=1740139655~hmac=6ee938aad387dbbfa8d70698fe74f7a3e160b12d03dcf0d2beaa98331c32dce7&w=1800')] min-h-screen py-">
         <div className="w-full max-w-2xl mx-auto shadow-md rounded-lg px-4 py-3 text-white">
           <h1 className="text-2xl font-bold text-center mb-8 mt-2">
             Write Your Daily Todos
